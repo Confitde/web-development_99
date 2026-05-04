@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
-<?xml-stylesheet type="text/css" href="student.css"?>
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
 
 <students>
     <student>
+        <rollno>101</rollno>
         <name>Apurva</name>
-        <age>20</age>
-        <course>Computer Engineering</course>
+        <course>Computer</course>
     </student>
 
     <student>
+        <rollno>102</rollno>
         <name>Riya</name>
-        <age>21</age>
         <course>IT</course>
     </student>
 </students>

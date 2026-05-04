@@ -6,11 +6,20 @@
         <rollno>101</rollno>
         <name>Apurva</name>
         <course>Computer</course>
+        <marks>85</marks>
     </student>
 
     <student>
         <rollno>102</rollno>
         <name>Riya</name>
         <course>IT</course>
+        <marks>90</marks>
+    </student>
+
+    <student>
+        <rollno>103</rollno>
+        <name>Neha</name>
+        <course>ENTC</course>
+        <marks>78</marks>
     </student>
 </students>

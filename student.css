@@ -1,0 +1,36 @@
+students {
+    display: block;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+student {
+    display: block;
+    background-color: white;
+    border: 1px solid black;
+    margin: 10px auto;
+    padding: 10px;
+    width: 50%;
+    border-radius: 8px;
+}
+
+name, age, course {
+    display: block;
+    margin: 5px 0;
+    font-size: 16px;
+}
+
+name {
+    font-weight: bold;
+    color: darkblue;
+    font-size: 18px;
+}
+
+age {
+    color: green;
+}
+
+course {
+    color: purple;
+}
